@@ -1,0 +1,9 @@
+.venv/
+venv/
+node_modules/
+__pycache__/
+*.pyc
+.env
+dist/
+
+AI_Research_Publication_Tracker/backend/instance/*.db
